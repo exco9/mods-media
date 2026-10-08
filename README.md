@@ -1,2 +1,2 @@
-# qlxe-media
-Public showcase media for QuestLog x Envelope Addon
+# mods-media
+Temporary place where I place all the assets for Modrinth and Curseforge mods page
